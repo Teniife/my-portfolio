@@ -16,6 +16,8 @@ No source code provided because this was made from scratch. I used some  picture
 
 Finished product of website. 
 ![Mock-up Reference](assets\images\Module_2_challenge_screenshot.png  "Screenshot of Completed Challenge 2")
+<img width="940" alt="Module_2_challenge_screenshot" src="https://user-images.githubusercontent.com/101995302/208771952-74523dbf-aa5d-4cc1-b436-2e13ed821b88.png">
+
 
 ## Credits
 
