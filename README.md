@@ -10,7 +10,7 @@ This weekly challenge was to make a portfolio from scratch containing informatio
 
 ## Installation
 No source code provided because this was made from scratch. I used some  pictures of my own for the background image and profile pictures. I also included screenshots of several projects I previously worked on in the making of this portfolio.
-[Deployed Link](https://teniife.github.io/challenge-2/)
+[Deployed Link](https://teniife.github.io/my-portfolio/)
 
 ## Usage
 
